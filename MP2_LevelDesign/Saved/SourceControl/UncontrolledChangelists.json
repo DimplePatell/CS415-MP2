@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/HealthBarEmptyPng.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/HealthBarFilledPng.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/HealthBar.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LevelPrototyping/Materials/M_HealthPack.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LevelPrototyping/Materials/M_Base.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/PlayerScore.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/BP_Collectable.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Assets/Props/Collectibles/Common/SM_Collectible_Common.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LevelPrototyping/Materials/M_Collectable.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/GameOver.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/StartGame.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/GameOverScreenImg.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI_Char/BP_Pursuer.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI_Char/Pursuer_AIController.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI_Char/EAIState.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/AI_Char/BP_Pursuer.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/AI_Char/Pursuer_AIController.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/AI_Char/EAIState.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/old/BP_Pursuer_C.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/old/Default__BP_Pursuer_C.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/old/BP_Pursuer.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI_Char/AI_Char/BP_Pursuer.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI_Char/AI_Char/Pursuer_AIController.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/AI_Char/AI_Char/EAIState.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/MapTemplates/Sky/Desert_Outer_HDR_Mat.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/UI/GameOverImg.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset",
+				"C:/Users/dimpl/Downloads/UIUC/Spring 2025/CS415-R/MP2_LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/M_HealthPack.uasset"
+			]
+		}
+	]
+}
